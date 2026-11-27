@@ -14,6 +14,9 @@ CHANNELS = [
     "IRAN_V2PING",
     "V2ray_confiig",
    "vpnsal",
+    "V2ray_official",
+    "VPNConnectd",
+    
 
 ]
 STATE_FILE = "state.json"
